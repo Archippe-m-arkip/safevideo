@@ -41,9 +41,9 @@ RAPIDAPI_KEY=votre_cle_rapidapi_ici
 
 Si vous avez des questions, des suggestions ou si vous souhaitez contribuer au projet **SafeVideo**, n'hésitez pas à me contacter :
 
-- **Nom** : [Archippe M]
-- **Email** : [archippemuhayiri@gmail.com]
-- **LinkedIn** : [https://www.linkedin.com/in/archippe-muhayiri-397999379/]
+- **Nom** : Archippe Muhayiri
+- **Email** : archippemuhayiri@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/archippe-muhayiri-397999379/
 - **Github** : https://github.com/Archippe-m-arkip/
 
 ---
