@@ -50,4 +50,4 @@ Si vous avez des questions, des suggestions ou si vous souhaitez contribuer au p
 
 **SafeVideo — Protéger les regards, nourrir l'esprit.**
 
-Designed and developed by Archippe Muhayiri
+Designed and developed by **Archippe Muhayiri**
