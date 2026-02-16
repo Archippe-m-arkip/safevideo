@@ -44,7 +44,7 @@ Si vous avez des questions, des suggestions ou si vous souhaitez contribuer au p
 - **Nom** : [Archippe M]
 - **Email** : [archippemuhayiri@gmail.com]
 - **LinkedIn** : [https://www.linkedin.com/in/archippe-muhayiri-397999379/]
-- **Github** : [https://github.com/Archippe-m-arkip/]
+- **Github** : https://github.com/Archippe-m-arkip/
 
 ---
 
