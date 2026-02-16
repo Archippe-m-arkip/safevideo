@@ -2,7 +2,7 @@
 
 **Analyseur intelligent de contenu YouTube pour une navigation familiale sécurisée.**
 
-`SafeVideo` est une solution basée sur Laravel conçue pour automatiser l'audit moral et pédagogique des vidéos YouTube. Grâce à l'intelligence artificielle (Gemini 2.0 Flash), le système transforme des métadonnées brutes en décisions claires pour les parents, garantissant un environnement numérique sain.
+`SafeVideo` est une solution basée sur Laravel conçue pour automatiser l'audit moral et pédagogique des vidéos YouTube. Grâce à l'intelligence artificielle (Gemini 2.5 Flash Lite), le système transforme des métadonnées brutes en décisions claires pour les parents, garantissant un environnement numérique sain.
 
 ---
 
@@ -34,5 +34,20 @@ Ajoutez les clés suivantes à votre fichier `.env` à la racine du projet :
 GEMINI_API_KEY=votre_cle_gemini_ici
 RAPIDAPI_KEY=votre_cle_rapidapi_ici
 ```
+
+---
+
+## 📬 Contact & Support
+
+Si vous avez des questions, des suggestions ou si vous souhaitez contribuer au projet **SafeVideo**, n'hésitez pas à me contacter :
+
+- **Nom** : [Archippe M]
+- **Email** : [archippemuhayiri@gmail.com]
+- **LinkedIn** : [https://www.linkedin.com/in/archippe-muhayiri-397999379/]
+- **Github** : [https://github.com/Archippe-m-arkip/]
+
+---
+
+**SafeVideo — Protéger les regards, nourrir l'esprit.**
 
 Designed and developed by Archippe Muhayiri
